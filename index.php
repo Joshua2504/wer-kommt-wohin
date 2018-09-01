@@ -1,5 +1,5 @@
 <?php
-$arrX = array("Phil zu Josh", "Phil zu Josh","Phil zu Josh", "Phil zu Josh");
+$arrX = array("Phil zu Josh","Josh zu Phil");
 $randIndex = array_rand($arrX);
 echo $arrX[$randIndex];
 ?>
