@@ -1,5 +1,5 @@
 Mario ist <?php
-$arrX = array("schwul","hässlich");
+$arrX = array("schwul","hässlich","gay","ein Stinker","TOTAL COOL");
 $randIndex = array_rand($arrX);
 echo $arrX[$randIndex];
 ?>
