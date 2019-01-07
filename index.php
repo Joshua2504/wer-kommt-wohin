@@ -1,5 +1,5 @@
-<?php
-$arrX = array("Phil zu Josh","Josh zu Phil");
+Mario ist <?php
+$arrX = array("schwul","hässlich");
 $randIndex = array_rand($arrX);
 echo $arrX[$randIndex];
 ?>
